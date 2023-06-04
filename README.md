@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Visit www.leopold.is for more.
+
 <!--
 **leopoldkristjansson/leopoldkristjansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
