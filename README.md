@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Web Developer, especially interested in UI & Front-End, JS, TS, CSS, Nuxt, Vue.
+
+Berlin | Reykjavík
+
 Visit www.leopold.is for more.
 
 <!--
